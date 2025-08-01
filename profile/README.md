@@ -3,7 +3,7 @@
 [![Rust](https://shields.io/badge/-Rust-1c1c1c?style=flat&logo=rust)](#)  
 [![Pride](https://pride-badges.pony.workers.dev/static/v1?label=Made%20with%20PRIDE&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982&labelColor=1c1c1c)](#)
 
-# Welcome to — [puppy-tools!](https://github.com/puppy-tools.github.io)
+# Welcome to — [puppy-tools!](https://puppy-tools.github.io)
 
 [![Followers](https://img.shields.io/github/followers/puppy-tools)](#)
 [![Stars](https://img.shields.io/github/stars/puppy-tools)](#)  
